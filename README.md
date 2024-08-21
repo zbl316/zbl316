@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zbl316
+- 👋 Hi, I’m @zee-effectual
 - 👀 I’m interested in Devops, AWS, Terraform, Linux, etc
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on ...
